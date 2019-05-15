@@ -1,4 +1,0 @@
-one
-two 
-2.5
-three
